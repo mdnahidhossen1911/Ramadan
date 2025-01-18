@@ -1,0 +1,49 @@
+{
+  "ramadan": {
+    "year": 2025,
+    "month": "Ramadan",
+    "start_date": "2025-03-09",
+    "end_date": "2025-04-08",
+    "daily_schedule": {
+      "fajr": "05:00 AM",
+      "sunrise": "06:30 AM",
+      "dhuhr": "12:30 PM",
+      "asr": "03:45 PM",
+      "maghrib": "06:45 PM",
+      "isha": "08:15 PM"
+    },
+    "activities": {
+      "fasting": {
+        "start_time": "05:00 AM",
+        "end_time": "06:45 PM"
+      },
+      "prayers": [
+        "Fajr",
+        "Dhuhr",
+        "Asr",
+        "Maghrib",
+        "Isha",
+        "Taraweeh"
+      ],
+      "charity": {
+        "type": "Zakat",
+        "amount_recommended": "2.5% of annual savings"
+      },
+      "community_events": [
+        "Iftar gatherings",
+        "Quran recitations",
+        "Charity drives"
+      ]
+    },
+    "eid": {
+      "name": "Eid al-Fitr",
+      "date": "2025-04-09",
+      "activities": [
+        "Morning Eid prayer",
+        "Family gatherings",
+        "Festive meals",
+        "Giving gifts and charity"
+      ]
+    }
+  }
+}
